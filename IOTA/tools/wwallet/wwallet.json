@@ -1,0 +1,88 @@
+{
+  "goshimmer": {
+    "api": "127.0.0.1:8080"
+  },
+  "sc": {
+    "dwf": {
+      "address": "nCCTdXn9E5TvwH1tvva88A27Xm3Dj3biJYLCFzhHLZ4C",
+      "committee": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "quorum": 3
+    },
+    "fa": {
+      "address": "ouHVeENPLAMuY4263LMACrJztewL869pPbQQUtwgqtow",
+      "committee": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ],
+      "quorum": 8
+    },
+    "fr": {
+      "committee": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "quorum": 3
+    },
+    "tr": {
+      "address": "bX3H7Sfh8Ez3g5ygevbUnchTKm6NjTtD3MsHQKGuMTgC",
+      "committee": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "quorum": 6
+    }
+  },
+  "wallet": {
+    "seed": "DDjAvXvhNVFHuea5i3UAVTfkH42NxWMoHgnFeBJn53uy"
+  },
+  "wasp": {
+    "0": {
+      "api": "127.0.0.1:9090",
+      "nanomsg": "127.0.0.1:5550",
+      "peering": "127.0.0.1:31415"
+    },
+    "1": {
+      "api": "127.0.0.1:9091",
+      "nanomsg": "127.0.0.1:5551",
+      "peering": "127.0.0.1:31416"
+    },
+    "2": {
+      "api": "127.0.0.1:9092",
+      "nanomsg": "127.0.0.1:5552",
+      "peering": "127.0.0.1:31417"
+    },
+    "3": {
+      "api": "127.0.0.1:9093",
+      "nanomsg": "127.0.0.1:5553",
+      "peering": "127.0.0.1:31418"
+    }
+  }
+}
